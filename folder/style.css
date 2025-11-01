@@ -1,0 +1,7 @@
+p {
+    height: 0;
+    width: 0;
+    border-bottom: 40px solid lightblue;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+}
