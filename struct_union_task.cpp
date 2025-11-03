@@ -101,4 +101,5 @@ studentType findHighestScore(studentType students[], int total){
 void printHighestScore(studentType x){
     cout << "---------Highest Score---------" << endl;
     cout << "Name: " << x.studentFName << "\tScore: " << x.testScore << endl;
+
 }
